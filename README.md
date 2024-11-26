@@ -6,15 +6,15 @@ Project Overview: E-Learning Landing Page
 
 Key features include:
 
-            -> Navigation Bar with logo, social media icons, and contact info.
+         -> Navigation Bar with logo, social media icons, and contact info.
    
-            -> Hero Section with a compelling headline, brief description, and search form.
+         -> Hero Section with a compelling headline, brief description, and search form.
    
-            -> Responsive Design ensuring the layout looks great on all screen sizes (mobile, tablet, desktop).
+         -> Responsive Design ensuring the layout looks great on all screen sizes (mobile, tablet, desktop).
    
-            -> Smooth Scroll Animations using ScrollReveal.js to enhance user interaction.
+         -> Smooth Scroll Animations using ScrollReveal.js to enhance user interaction.
    
-            -> Search and Category Filters for finding courses easily.
+         -> Search and Category Filters for finding courses easily.
    
 Technologies used: HTML5, CSS3, JavaScript (ScrollReveal.js), and Google Fonts.
 
